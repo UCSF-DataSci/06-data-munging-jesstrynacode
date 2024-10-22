@@ -21,7 +21,7 @@
    - Example: [Specific example from the dataset]
    - Potential Impact: [How this could affect analysis if left uncleaned]
 
-2. **[Next Issue]**
+2. **[Typos causing repeated variables]
    - ...
 
 [Add more issues as needed]
