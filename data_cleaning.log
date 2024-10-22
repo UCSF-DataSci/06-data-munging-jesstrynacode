@@ -1,0 +1,10 @@
+2024-10-22 10:44:09,079 - INFO - Successfully loaded messy_population_data.csv
+2024-10-22 10:44:09,156 - INFO - Corrected typos in income_groups column. Rows affected: 5959
+2024-10-22 10:44:09,183 - INFO - Converted 'gender' column to categorical type. Rows affected: 119811
+2024-10-22 10:44:09,246 - INFO - Flagged 60211 rows with future dates.
+2024-10-22 10:44:09,311 - INFO - Removed 3219 duplicate rows. New shape: (122499, 6)
+2024-10-22 10:44:09,324 - INFO - Removed outliers in 'population'. Rows affected: 2242. New shape: (114131, 6)
+2024-10-22 10:44:09,662 - INFO - Cleaned data saved to 'cleaned_data.csv' before imputing missing data
+2024-10-22 10:44:09,699 - INFO - Filled missing numeric values with median. Rows affected: 10988
+2024-10-22 10:44:09,734 - INFO - Filled missing categorical values with mode. Rows affected: 10803
+2024-10-22 10:44:10,060 - INFO - Cleaned and imputed data saved to 'clean_imputed_data.csv'
